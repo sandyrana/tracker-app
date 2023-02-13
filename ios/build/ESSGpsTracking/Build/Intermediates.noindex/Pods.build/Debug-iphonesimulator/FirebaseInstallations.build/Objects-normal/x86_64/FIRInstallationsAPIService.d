@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsVersion.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/FirebaseCore/FIRHeartbeatInfo.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsErrors.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h

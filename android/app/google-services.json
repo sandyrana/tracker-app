@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831658123510",
+    "firebase_url": "https://esstracking-d27e0.firebaseio.com",
+    "project_id": "esstracking-d27e0",
+    "storage_bucket": "esstracking-d27e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831658123510:android:d4a10423d640296cd88cd7",
+        "android_client_info": {
+          "package_name": "com.essgpstracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831658123510-jvttdt3bjec5ut4cudaj82lqq72vrniq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQj3T5LzPDIQ9gB9CFVt9SEW0pm7F5WKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831658123510-jvttdt3bjec5ut4cudaj82lqq72vrniq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831658123510-008fs10mc9l3h1ueke0n7m6tjh6ufpdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rnapp.ess.gpstracking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

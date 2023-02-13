@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTNanopbHelpers.m \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTNanopbHelpers.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORStoredEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORDataFuture.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCOREvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCOREventDataObject.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/nanopb/pb.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORConsoleLogger.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/nanopb/pb_decode.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/nanopb/pb_encode.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTPrioritizer.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORClock.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORPrioritizer.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORLifecycle.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORPlatform.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORUploadPackage.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORTargets.h

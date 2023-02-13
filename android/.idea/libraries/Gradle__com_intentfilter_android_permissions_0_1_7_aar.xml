@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.intentfilter:android-permissions:0.1.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60d4cd8ef3534f215e42ec2663f4378d/jetified-android-permissions-0.1.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60d4cd8ef3534f215e42ec2663f4378d/jetified-android-permissions-0.1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60d4cd8ef3534f215e42ec2663f4378d/jetified-android-permissions-0.1.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f23e45ebd300999a5c54eda34d2dd0c4/jetified-android-permissions-0.1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f23e45ebd300999a5c54eda34d2dd0c4/jetified-android-permissions-0.1.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f23e45ebd300999a5c54eda34d2dd0c4/jetified-android-permissions-0.1.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a74429798aac001be8ac34b9a5e40eeb/jetified-android-permissions-0.1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a74429798aac001be8ac34b9a5e40eeb/jetified-android-permissions-0.1.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a74429798aac001be8ac34b9a5e40eeb/jetified-android-permissions-0.1.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1e1836a6d89d4e83d3ed488e430adec/jetified-android-permissions-0.1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1e1836a6d89d4e83d3ed488e430adec/jetified-android-permissions-0.1.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1e1836a6d89d4e83d3ed488e430adec/jetified-android-permissions-0.1.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

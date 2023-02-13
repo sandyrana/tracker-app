@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native:0.15.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed72f9ce0c2009645e383ea3c55a9f91/jetified-react-native-0.15.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed72f9ce0c2009645e383ea3c55a9f91/jetified-react-native-0.15.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed72f9ce0c2009645e383ea3c55a9f91/jetified-react-native-0.15.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed72f9ce0c2009645e383ea3c55a9f91/jetified-react-native-0.15.3/jars/libs/infer-annotations-1.5.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/047aa1f955655e01922135ff4c79ad24/jetified-react-native-0.15.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/047aa1f955655e01922135ff4c79ad24/jetified-react-native-0.15.3/jars/libs/infer-annotations-1.5.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/047aa1f955655e01922135ff4c79ad24/jetified-react-native-0.15.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/047aa1f955655e01922135ff4c79ad24/jetified-react-native-0.15.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cde973c374b300b92fe7741f77c1383/jetified-react-native-0.15.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cde973c374b300b92fe7741f77c1383/jetified-react-native-0.15.3/jars/libs/infer-annotations-1.5.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cde973c374b300b92fe7741f77c1383/jetified-react-native-0.15.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cde973c374b300b92fe7741f77c1383/jetified-react-native-0.15.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95ada9e7c2c41800e1cae964ec4617d3/jetified-react-native-0.15.3/jars/libs/infer-annotations-1.5.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95ada9e7c2c41800e1cae964ec4617d3/jetified-react-native-0.15.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95ada9e7c2c41800e1cae964ec4617d3/jetified-react-native-0.15.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/95ada9e7c2c41800e1cae964ec4617d3/jetified-react-native-0.15.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native/0.15.3/59d6886fea5e89cb570822b7237aaa5004f449f1/react-native-0.15.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native/0.15.3/bf2422970536304684ea39d35e5ffe370d71f2b2/react-native-0.15.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

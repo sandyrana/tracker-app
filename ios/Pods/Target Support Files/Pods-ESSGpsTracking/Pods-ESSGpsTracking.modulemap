@@ -1,0 +1,6 @@
+module Pods_ESSGpsTracking {
+  umbrella header "Pods-ESSGpsTracking-umbrella.h"
+
+  export *
+  module * { export * }
+}

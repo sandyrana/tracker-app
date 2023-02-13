@@ -1,0 +1,62 @@
+{
+  "name": "ESSGpsTracking",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint .",
+    "postinstall": "jetifier -r"
+  },
+  "dependencies": {
+    "@mauron85/react-native-background-geolocation": "^0.6.3",
+    "@react-native-community/art": "^1.1.2",
+    "@react-native-community/async-storage": "^1.7.1",
+    "@react-native-community/cli": "^9.1.1",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/masked-view": "^0.1.5",
+    "@react-native-community/push-notification-ios": "^1.8.0",
+    "native-base": "^2.13.8",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-background-fetch": "^2.7.1",
+    "react-native-battery": "^0.1.18",
+    "react-native-device-battery": "^2.0.0",
+    "react-native-device-info": "^5.4.0",
+    "react-native-easy-grid": "^0.2.2",
+    "react-native-geolocation-service": "^3.1.0",
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-loader": "^1.2.1",
+    "react-native-maps": "0.27.1",
+    "react-native-permissions": "^3.0.0",
+    "react-native-popup-dialog": "^0.18.3",
+    "react-native-push-notification": "^7.0.0",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-safe-area-context": "^0.6.2",
+    "react-native-screens": "^2.0.0-alpha.22",
+    "react-native-settings": "^0.2.3",
+    "react-native-simple-toast": "^1.0.0",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-themed-styles": "^0.0.4",
+    "react-native-uuid": "^1.4.9",
+    "react-native-uuid-generator": "^6.1.1",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^2.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "jetifier": "^2.0.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

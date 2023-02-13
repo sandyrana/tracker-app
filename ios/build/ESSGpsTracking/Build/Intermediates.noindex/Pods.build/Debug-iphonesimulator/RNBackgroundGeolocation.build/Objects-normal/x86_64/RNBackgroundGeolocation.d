@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/RNBackgroundGeolocation.m \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Target\ Support\ Files/RNBackgroundGeolocation/RNBackgroundGeolocation-prefix.pch \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/RNBackgroundGeolocation.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Modules/module.modulemap \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/HttpResponse.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/HttpRequest.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/AtomicBoolean.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHttpService.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSDeviceInfo.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/SQLQuery.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/LogQuery.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSCurrentPositionRequest.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSWatchPositionRequest.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/LocationManager.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofence.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofenceEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSEnabledChangeEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSScheduleEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHeartbeatEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSHttpEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSProviderChangeEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSActivityChangeEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSLocation.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSAuthorizationEvent.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TransistorAuthorizationToken.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/ConfigModule.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSAuthorization.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSConfig.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSSchedule.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/node_modules/react-native-background-geolocation/ios/RNBackgroundGeolocation/TSLocationManager.framework/Headers/TSLocationManager.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/rizwanshaikh/Documents/react-native/ESSGpsTracking/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h

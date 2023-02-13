@@ -1,0 +1,1068 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:1-101:12
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:1-101:12
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:1-101:12
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:1-101:12
+MERGED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:1-101:12
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-91:12
+MERGED from [:@react-native-community_art] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_async-storage] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_masked-view] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-background-fetch] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-battery] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-battery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-battery] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-battery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-24:12
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-gesture-handler] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-permissions] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-settings] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-settings/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-uuid-generator] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-uuid-generator/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.71.0-rc.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/5a2994fc11dd68506beeac3ad637103e/jetified-react-native-0.71.0-rc.0-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:1-85:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/33e8ce2a63b5b691b21b1eb67462e4a2/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ac87b0441ec96fb4580e70f8dc9f85c/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e4ceabc8603324ad4839d3cbaad52a97/swiperefreshlayout-1.1.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a14105437c28665c85d041980d4b9c2a/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/45c294b2495220b011a4361bd230076c/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6b7d7985b40a74a34ac042abb1df8baa/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a36334c135fd01c57f00d3e20acaa52d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ecd74b62893a73a861d905bcec2a347a/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4de470eaa51f05884f3f69ab9ec889e3/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/03334a3c67afa752470302a2f9b90724/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e59eaba95ee12167f0fe88aba06c3a2a/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f509f6d2f9c1ff170092c34a0922c9f9/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f0f455c3eb74dc76336ba0014cea2406/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/425b4b4178264b4cd018c58b81a97287/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/75d76e184f4e0f3187634ef98a454838/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/995f5be264355abad18ac7bec1e7dcf4/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/08c98df2535932ba626b049ad9436aca/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/cd02317c23e662d0fa4ab88d0d0916d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/be0b3c7258e6da73a16db7ad25cbd1f2/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/57b21c918714d9b1eba078fb2da12f90/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/10fcddba391b31bd86d702ee5aeb2035/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7ced6c91ac482bc6e6ce9aa80fc65495/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/8c15fd988bc26238d3de2baef228f7dc/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/85d86ad1681edc5ad46b44e92265cc70/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12139481c87696c45768f9d6e8bfb4d6/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3d1c017d2133e91a1d2da48acbbbe638/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3360ee1de8b0bb882f31b77b16c16f71/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c4789de6e94454c47dc4229b93ca92b8/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a988ca659419d68961e1113c3a8e026e/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/aeb16bec7792609c97b0e956df701bc7/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b1af4f2bb3cdb8a270b23f3dd207998b/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c954b9dc49d813a57e53fca9fa824039/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4627d5b785f27f9d98bde14af8177673/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e3998a6e514d7d80cdcf15de076e5b99/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b00e05c5496a872f0e85a2965fea390a/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fc98648796d67b908efa63b74da71f96/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7bce60eb7760ddadaaf9d0604cb21a0f/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/558ad759531bf770028101e5ffded8a8/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a337b50c7f8a97701b46716503efa900/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6c0e896a7c91df98c5bf52d5282b88f3/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/08f544ac53f56e7462931af245090a35/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/aa963e657170f3d05a50bba907d37fd5/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7bec3e77af96aa96eb3c1be0252101a6/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/34b1de9406524a3ffc71ce4ccdeeef90/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/74355130a9661441c1876623cf7c8df4/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/59291525904da504014e0dc822436193/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d970ed1a4df48086490a4867db31f62e/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7c5e63da816dffc8aff42ad8068c2991/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b3ae9ff02e68334a4bc1aeae59ff6b5a/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e309eb3e563ba179af6833153095d35d/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c4cfe587b5f0d56e42c66a5049a4e39c/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/925d087aa4af5be516388f097ba6b306/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d045dfe6f5e36c28237162b8abdcdfdc/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fb877024a3798d4184732f493f8bb8b7/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/92193d450b24f84e1330adb1304e7433/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7ae2b75450d1ab3817b5b665e82bb3b1/jetified-logback-android-1.1.1-9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/784c11e467e57c700c3e6ecdaaee4197/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/90dae147ea62f7788485c5ba179a64ed/jetified-apktool-lib-1.4.4-5/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:1-101:12
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:1-101:12
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:5:5-85
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:5:22-82
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-67
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-67
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-79
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:5-81
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:5-81
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:11:5-81
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:11:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:13:5-68
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-68
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-68
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:12:5-68
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:12:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:16:5-77
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:16:22-74
+application
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:18:5-98:19
+MERGED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:18:5-98:19
+MERGED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:18:5-98:19
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:5-89:19
+MERGED from [:react-native-background-fetch] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-background-fetch] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:15:5-29:19
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-splash-screen] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.71.0-rc.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/5a2994fc11dd68506beeac3ad637103e/jetified-react-native-0.71.0-rc.0-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.71.0-rc.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/5a2994fc11dd68506beeac3ad637103e/jetified-react-native-0.71.0-rc.0-debug/AndroidManifest.xml:9:5-20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-83:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:5-83:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/33e8ce2a63b5b691b21b1eb67462e4a2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/33e8ce2a63b5b691b21b1eb67462e4a2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6b7d7985b40a74a34ac042abb1df8baa/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6b7d7985b40a74a34ac042abb1df8baa/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a36334c135fd01c57f00d3e20acaa52d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a36334c135fd01c57f00d3e20acaa52d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4de470eaa51f05884f3f69ab9ec889e3/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4de470eaa51f05884f3f69ab9ec889e3/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/03334a3c67afa752470302a2f9b90724/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/03334a3c67afa752470302a2f9b90724/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e59eaba95ee12167f0fe88aba06c3a2a/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e59eaba95ee12167f0fe88aba06c3a2a/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/995f5be264355abad18ac7bec1e7dcf4/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/995f5be264355abad18ac7bec1e7dcf4/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/85d86ad1681edc5ad46b44e92265cc70/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/85d86ad1681edc5ad46b44e92265cc70/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c954b9dc49d813a57e53fca9fa824039/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c954b9dc49d813a57e53fca9fa824039/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/925d087aa4af5be516388f097ba6b306/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/925d087aa4af5be516388f097ba6b306/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d045dfe6f5e36c28237162b8abdcdfdc/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d045dfe6f5e36c28237162b8abdcdfdc/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fb877024a3798d4184732f493f8bb8b7/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fb877024a3798d4184732f493f8bb8b7/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:11:5-16:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/85d86ad1681edc5ad46b44e92265cc70/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:20:7-39
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:20:7-39
+	tools:ignore
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:22:7-52
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:22:7-52
+	tools:targetApi
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:21:7-41
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:21:7-41
+	android:allowBackup
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:23:7-34
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:23:7-34
+	android:theme
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:25:7-38
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:25:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:19:7-38
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:19:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:30:9-32:70
+	android:value
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:32:13-68
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:31:13-58
+meta-data#com.transistorsoft.locationmanager.license
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:33:9-118
+	android:value
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:33:78-115
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:33:20-77
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:46:9-152
+	tools:replace
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:46:121-150
+	android:value
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:46:97-120
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:46:20-96
+meta-data#com.dieam.reactnativepushnotification.notification_foreground
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:48:9-49:44
+	android:value
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:49:21-42
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:48:21-97
+meta-data#com.dieam.reactnativepushnotification.notification_channel_name
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:52:9-53:61
+	android:value
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:53:13-59
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:52:21-99
+meta-data#com.dieam.reactnativepushnotification.notification_channel_description
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:54:9-55:68
+	android:value
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:54:21-106
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:57:9-58:46
+	android:resource
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:57:21-92
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:60:9-110
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:60:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:61:9-65:20
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:61:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:62:13-64:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:63:17-79
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:63:25-76
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:67:9-73:19
+	android:exported
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:68:13-107
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:70:13-72:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:71:25-75
+activity#com.essgpstracking.SplashActivity
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:74:9-82:20
+	android:label
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:77:13-45
+	android:theme
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:76:13-47
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:75:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:78:13-81:29
+action#android.intent.action.MAIN
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:79:17-69
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:79:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:80:27-74
+activity#com.essgpstracking.MainActivity
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:85:7-93:18
+	android:label
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:88:9-41
+	android:launchMode
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:87:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:90:9-51
+	android:exported
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:91:9-32
+	android:configChanges
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:89:9-79
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:86:9-37
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:94:7-84
+	android:name
+		ADDED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml:94:17-81
+uses-sdk
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-27:41
+MERGED from [:@react-native-community_art] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_art] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-fetch] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-fetch] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-battery] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-battery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-battery] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-battery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-battery] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-battery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-battery] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-battery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-settings] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-settings/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-settings] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-settings/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-uuid-generator] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-uuid-generator/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-uuid-generator] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-uuid-generator/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.71.0-rc.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/5a2994fc11dd68506beeac3ad637103e/jetified-react-native-0.71.0-rc.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.71.0-rc.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/5a2994fc11dd68506beeac3ad637103e/jetified-react-native-0.71.0-rc.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-44
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/33e8ce2a63b5b691b21b1eb67462e4a2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/33e8ce2a63b5b691b21b1eb67462e4a2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ac87b0441ec96fb4580e70f8dc9f85c/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ac87b0441ec96fb4580e70f8dc9f85c/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e4ceabc8603324ad4839d3cbaad52a97/swiperefreshlayout-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e4ceabc8603324ad4839d3cbaad52a97/swiperefreshlayout-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a14105437c28665c85d041980d4b9c2a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a14105437c28665c85d041980d4b9c2a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/45c294b2495220b011a4361bd230076c/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/45c294b2495220b011a4361bd230076c/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6b7d7985b40a74a34ac042abb1df8baa/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6b7d7985b40a74a34ac042abb1df8baa/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a36334c135fd01c57f00d3e20acaa52d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a36334c135fd01c57f00d3e20acaa52d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ecd74b62893a73a861d905bcec2a347a/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ecd74b62893a73a861d905bcec2a347a/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4de470eaa51f05884f3f69ab9ec889e3/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4de470eaa51f05884f3f69ab9ec889e3/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/03334a3c67afa752470302a2f9b90724/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/03334a3c67afa752470302a2f9b90724/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e59eaba95ee12167f0fe88aba06c3a2a/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e59eaba95ee12167f0fe88aba06c3a2a/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f509f6d2f9c1ff170092c34a0922c9f9/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f509f6d2f9c1ff170092c34a0922c9f9/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f0f455c3eb74dc76336ba0014cea2406/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f0f455c3eb74dc76336ba0014cea2406/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/425b4b4178264b4cd018c58b81a97287/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/425b4b4178264b4cd018c58b81a97287/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/75d76e184f4e0f3187634ef98a454838/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/75d76e184f4e0f3187634ef98a454838/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/995f5be264355abad18ac7bec1e7dcf4/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/995f5be264355abad18ac7bec1e7dcf4/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/08c98df2535932ba626b049ad9436aca/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/08c98df2535932ba626b049ad9436aca/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/cd02317c23e662d0fa4ab88d0d0916d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/cd02317c23e662d0fa4ab88d0d0916d7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/be0b3c7258e6da73a16db7ad25cbd1f2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/be0b3c7258e6da73a16db7ad25cbd1f2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/57b21c918714d9b1eba078fb2da12f90/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/57b21c918714d9b1eba078fb2da12f90/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/10fcddba391b31bd86d702ee5aeb2035/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/10fcddba391b31bd86d702ee5aeb2035/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7ced6c91ac482bc6e6ce9aa80fc65495/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7ced6c91ac482bc6e6ce9aa80fc65495/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/8c15fd988bc26238d3de2baef228f7dc/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/8c15fd988bc26238d3de2baef228f7dc/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/85d86ad1681edc5ad46b44e92265cc70/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/85d86ad1681edc5ad46b44e92265cc70/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12139481c87696c45768f9d6e8bfb4d6/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12139481c87696c45768f9d6e8bfb4d6/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3d1c017d2133e91a1d2da48acbbbe638/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3d1c017d2133e91a1d2da48acbbbe638/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3360ee1de8b0bb882f31b77b16c16f71/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3360ee1de8b0bb882f31b77b16c16f71/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c4789de6e94454c47dc4229b93ca92b8/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c4789de6e94454c47dc4229b93ca92b8/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a988ca659419d68961e1113c3a8e026e/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a988ca659419d68961e1113c3a8e026e/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/aeb16bec7792609c97b0e956df701bc7/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/aeb16bec7792609c97b0e956df701bc7/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b1af4f2bb3cdb8a270b23f3dd207998b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b1af4f2bb3cdb8a270b23f3dd207998b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c954b9dc49d813a57e53fca9fa824039/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c954b9dc49d813a57e53fca9fa824039/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4627d5b785f27f9d98bde14af8177673/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4627d5b785f27f9d98bde14af8177673/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e3998a6e514d7d80cdcf15de076e5b99/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e3998a6e514d7d80cdcf15de076e5b99/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b00e05c5496a872f0e85a2965fea390a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b00e05c5496a872f0e85a2965fea390a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fc98648796d67b908efa63b74da71f96/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fc98648796d67b908efa63b74da71f96/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7bce60eb7760ddadaaf9d0604cb21a0f/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7bce60eb7760ddadaaf9d0604cb21a0f/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/558ad759531bf770028101e5ffded8a8/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/558ad759531bf770028101e5ffded8a8/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a337b50c7f8a97701b46716503efa900/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/a337b50c7f8a97701b46716503efa900/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6c0e896a7c91df98c5bf52d5282b88f3/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/6c0e896a7c91df98c5bf52d5282b88f3/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/08f544ac53f56e7462931af245090a35/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/08f544ac53f56e7462931af245090a35/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/aa963e657170f3d05a50bba907d37fd5/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/aa963e657170f3d05a50bba907d37fd5/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7bec3e77af96aa96eb3c1be0252101a6/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7bec3e77af96aa96eb3c1be0252101a6/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/34b1de9406524a3ffc71ce4ccdeeef90/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/34b1de9406524a3ffc71ce4ccdeeef90/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/74355130a9661441c1876623cf7c8df4/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/74355130a9661441c1876623cf7c8df4/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/59291525904da504014e0dc822436193/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/59291525904da504014e0dc822436193/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d970ed1a4df48086490a4867db31f62e/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d970ed1a4df48086490a4867db31f62e/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7c5e63da816dffc8aff42ad8068c2991/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7c5e63da816dffc8aff42ad8068c2991/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b3ae9ff02e68334a4bc1aeae59ff6b5a/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b3ae9ff02e68334a4bc1aeae59ff6b5a/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e309eb3e563ba179af6833153095d35d/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/e309eb3e563ba179af6833153095d35d/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c4cfe587b5f0d56e42c66a5049a4e39c/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/c4cfe587b5f0d56e42c66a5049a4e39c/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/925d087aa4af5be516388f097ba6b306/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/925d087aa4af5be516388f097ba6b306/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d045dfe6f5e36c28237162b8abdcdfdc/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d045dfe6f5e36c28237162b8abdcdfdc/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fb877024a3798d4184732f493f8bb8b7/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fb877024a3798d4184732f493f8bb8b7/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/92193d450b24f84e1330adb1304e7433/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/92193d450b24f84e1330adb1304e7433/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7ae2b75450d1ab3817b5b665e82bb3b1/jetified-logback-android-1.1.1-9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/7ae2b75450d1ab3817b5b665e82bb3b1/jetified-logback-android-1.1.1-9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/784c11e467e57c700c3e6ecdaaee4197/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/784c11e467e57c700c3e6ecdaaee4197/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/90dae147ea62f7788485c5ba179a64ed/jetified-apktool-lib-1.4.4-5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/90dae147ea62f7788485c5ba179a64ed/jetified-apktool-lib-1.4.4-5/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeep/Documents/ESSGpsTracking copy/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.hardware.location
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-79
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-geolocation-service] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-maps] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:22-86
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:5-94
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:22-91
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-77
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:5-78
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:22-77
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:9-55:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:9-53:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:9-53:19
+	android:process
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-36
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-66
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-50:29
+action#android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:17-70
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:25-67
+meta-data#android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-54:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-52:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:50:13-52:55
+	android:resource
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:17-52
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:17-59
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:9-64:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-62:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-62:19
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:18-80
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-59:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-63:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-61:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-61:57
+	android:resource
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:17-54
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:17-69
+provider#com.marianhello.bgloc.data.provider.LocationContentProvider
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:9-70:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:9-68:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:9-68:39
+	android:authorities
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:13-75
+	android:syncable
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-87
+service#com.marianhello.bgloc.service.LocationServiceImpl
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:9-75:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:9-73:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:9-73:40
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:13-77
+service#com.marianhello.bgloc.react.headless.HeadlessService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:9-79:40
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:13-80
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:9-88:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:9-82:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:9-82:20
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:82:13-71
+uses-permission#android.permission.GET_TASKS
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:13:22-65
+receiver#com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:16:9-92
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:16:19-89
+service#com.transistorsoft.tsbackgroundfetch.FetchJobService
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:18:9-21:72
+	android:exported
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:20:13-36
+	android:permission
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:19:13-80
+receiver#com.transistorsoft.tsbackgroundfetch.BootReceiver
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:23:9-28:20
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:23:19-83
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:26:17-84
+	android:name
+		ADDED from [tsbackgroundfetch-0.4.0.aar] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/12043ad8c66fb8781ac91096c1cd7053/jetified-tsbackgroundfetch-0.4.0/AndroidManifest.xml:26:25-81
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/sandeep/Documents/ESSGpsTracking copy/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:25-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/3b6fda2b44e9d68a417a72d9c525ce08/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:28:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/f35ff68dc02d73da646fabe1c40ed513/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/0271da78d4454a9b6d1759065395818f/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:25:22-74
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:45:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:53:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.1] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/b05fd6098ea0c624920bb213829e6c31/jetified-firebase-messaging-23.1.1/AndroidManifest.xml:56:17-119
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ec86a51d1884d8e62ed9e27802b2ca0a/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/bf1f20a28cafaa32536a0a5b014a7b4a/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/02f3a7ae639f47d593a63a66d0a7ebb1/jetified-firebase-installations-17.1.0/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/ce63b2ddb0bc51ae2ca4b6d45659f9f6/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fb877024a3798d4184732f493f8bb8b7/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fb877024a3798d4184732f493f8bb8b7/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fcbc8e024867ac02d91fe4e2b47748b0/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/995f5be264355abad18ac7bec1e7dcf4/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/995f5be264355abad18ac7bec1e7dcf4/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/149f20d81f95b24de76edf3f3b6a1498/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/83bc47a0d78403a163def5fd657c6a4a/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/fca210590711baf2a38c0296878ba8db/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/551f404c571caafbb20c37c9daa26586/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d045dfe6f5e36c28237162b8abdcdfdc/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/d045dfe6f5e36c28237162b8abdcdfdc/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/9ffb63cf2bb256bc9a0a6827cd7d3d70/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/sandeep/.gradle/caches/transforms-2/files-2.1/da73944132d44758d0a92144336a8e36/jetified-android-permissions-0.1.7/AndroidManifest.xml:13:13-83
